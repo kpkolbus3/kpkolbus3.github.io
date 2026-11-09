@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2026-10-10
+img: padpuzzlecode.png
+alt: A screenshot of code written in GDScript. It detects the rotation of nine dials and if they are facing the correct direction when a button is pressed, the puzzle will be solved.
+project-date: October 2026
+category: Godot Project
+description: This is a screenshot of some of the code I wrote in GDScript from my capstone project, Old Lady Artifacts. It is for a pipe flow puzzle where the player has to click on pipes to rotate them and connect them to form a continuous path. If the player messes up, a line of dialogue written by another team member will pop up at the bottom of the screen for a couple seconds.
 ---
