@@ -2,9 +2,9 @@
 title: Kristin Kolbus
 email: kpkolbus3@gmail.com
 url: https://github.com/kpkolbus3
-description: "A portfolio website for Kristin Kolbus, a game developer."
-keywords: "game developer, portfolio, game design"
-skills: "Game Developer"
+description: "A portfolio website for Kristin Kolbus, a game developer and narrative designer."
+keywords: "game developer, portfolio, game design, narrative design"
+skills: "Game Developer & Narrative Designer"
 meta_author: Kolbus Kristin
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Kristin Kolbus
   location: Location
   social: Around the Web
   credits: Credits
